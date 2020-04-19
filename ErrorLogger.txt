@@ -1,0 +1,68 @@
+Sun Apr 19 2020 13:03:46 GMT+0530 (India Standard Time) - ReferenceError: ActiveXObject is not defined
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\app.js:21:22
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\utilities\requestlogger.js:8:5)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+Sun Apr 19 2020 13:06:32 GMT+0530 (India Standard Time) - ReferenceError: ActiveXObject is not defined
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\app.js:21:22
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\utilities\requestlogger.js:8:5)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+Sun Apr 19 2020 13:16:47 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type object
+    at validateString (internal/validators.js:112:11)
+    at Object.join (path.js:375:7)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\app.js:18:20
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\utilities\requestlogger.js:8:5)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+Sun Apr 19 2020 13:22:46 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'split' of undefined
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\routes\routing.js:25:33
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS\functions\src\app.js:16:3

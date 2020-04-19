@@ -1,0 +1,30 @@
+AC500, ABB
+S7 200 XXX- MicroWIN/SMART, Siemens
+S3 300, S7 400 - SIMATIC Manager, Siemens
+S7 1200, S7 1500 - TIA Portal, Siemens
+SIEMENS LOGO - LogoSoft Comfort
+SLC/MicroLogix-RSLogix5, RsLogix500, Rockwell
+Compact/ControlLogix-RSLogix5000-Studio 5000, Rockwell
+MicroLogix Control Systems- Micro 800, Rockwell
+ControlEdge PLC, Honeywell
+MasterLogic-200, Honeywell
+M200,M218-SoMachine, Schneider
+M340,M580-EcoStruxure (UnityPro XL), Schneider
+Momentum Series-EcoStruxure (UnityPro XL), Schneider
+Quantam Series-EcoStruxure (UnityPro XL), Schneider
+Premium Series-EcoStruxure (UnityPro XL), Schneider
+X20,X90-Automation Studio, B&R
+Fx,Gx,Qx,QnA,L Series-GX Developer, Mitshubishi
+Fx,Gx,Qx,QnA,L Series-GX Works, Mitshubishi
+VersaMax/RX3i-Proficy ME, GE
+GE IP Series (90-30) -Proficy Machine Edition, GE
+GE IP Series (90-70) -Proficy Machine Edition, GE
+TwinCAT 2, TwinCAT 3, BECKHOFF
+FA-M3, YOKOGAWA
+ControlWave Micro, EMERSON
+VersaMax Micro, EMERSON
+V Series PLC, TOSHIBA
+CS Series PLC, Omron
+NX Series PLC, Omron
+Other
+NA

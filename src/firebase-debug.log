@@ -1,0 +1,68 @@
+[debug] [2020-04-19T06:15:35.156Z] ----------------------------------------------------------------------
+[debug] [2020-04-19T06:15:35.158Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Akash\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-04-19T06:15:35.158Z] CLI Version:   8.1.1
+[debug] [2020-04-19T06:15:35.158Z] Platform:      win32
+[debug] [2020-04-19T06:15:35.158Z] Node Version:  v12.14.0
+[debug] [2020-04-19T06:15:35.159Z] Time:          Sun Apr 19 2020 11:45:35 GMT+0530 (India Standard Time)
+[debug] [2020-04-19T06:15:35.160Z] ----------------------------------------------------------------------
+[debug] [2020-04-19T06:15:35.160Z] 
+[debug] [2020-04-19T06:15:35.167Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-19T06:15:35.168Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[debug] [2020-04-19T06:15:48.350Z] ----------------------------------------------------------------------
+[debug] [2020-04-19T06:15:48.352Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Akash\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2020-04-19T06:15:48.352Z] CLI Version:   8.1.1
+[debug] [2020-04-19T06:15:48.352Z] Platform:      win32
+[debug] [2020-04-19T06:15:48.352Z] Node Version:  v12.14.0
+[debug] [2020-04-19T06:15:48.353Z] Time:          Sun Apr 19 2020 11:45:48 GMT+0530 (India Standard Time)
+[debug] [2020-04-19T06:15:48.353Z] ----------------------------------------------------------------------
+[debug] [2020-04-19T06:15:48.353Z] 
+[debug] [2020-04-19T06:15:48.360Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-19T06:15:48.361Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Akash\Desktop\ang\firebase deployment\TalentCaptureWS
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using talentcapturews.
+[debug] [2020-04-19T06:15:56.382Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/talentcapturews  
+ 
+[debug] [2020-04-19T06:15:57.172Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sun, 19 Apr 2020 06:15:58 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
